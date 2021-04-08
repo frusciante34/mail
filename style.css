@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin: 80px auto;
+    max-width: 600px;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    padding: 20px;
+   }
+
+
+  .baslik{
+      background-color:rgb(253, 185, 38);
+      padding: 24px;
+      text-align: center;
+  } 
+
+  .icerik{
+      background-color: white;
+      padding: 30px;
+  }
+
+  .icerik p{
+      text-align: left;
+  }
+
+  button{
+      margin:30px 0; 
+      padding: 16px;
+      background-color:rgb(98, 98, 255);
+      color: white;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      text-align: center;
+
+  }
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+  .footer-adres{
+      font-size: 12px;
+      color: gray;
+      margin:26px 0;
+
+  }
+  .footer-adres p{
+margin-bottom: 30px;
+
+  }
+
+
+
+
+  
+
+
+
+
+
+
+
